@@ -1,0 +1,2 @@
+PORT=3000
+MONGODB_URI="url do banco de dados"
